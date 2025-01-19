@@ -1,2 +1,2 @@
-# goit-js-hw-07
-HW7 on JS modul
+# goit-markup-hw-06
+HW 6
